@@ -1,5 +1,9 @@
 # Fonts Ligature fo VsCode
 
+To configure Vs code with this font follow the steps bellow:
+
+![Example of font](code.png)
+
 - Copy folder `.fonts` to `~/.fonts`
 - Change `settings.json` on vscode:
   ```
